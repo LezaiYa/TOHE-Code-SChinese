@@ -1,8 +1,8 @@
 ---
 lang: zh-CN
-title: 倒霉蛋
-prev: 流氓
-next: 无效投票
+title: Unlucky
+prev: Rascal
+next: VoidBallot
 ---
 
 # <font color=#ff6347>⛔ <b>倒霉蛋</b></font> <Badge text="有害类" type="tip" vertical="middle"/>

@@ -1,36 +1,36 @@
 ---
-lang: en-US
+lang: zh-CN
 title: Bait
 prev: Autopsy
 next: Beartrap
 ---
 
-# <font color=#00f7ff>🪤 <b>Bait</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
+# <font color=#00f7ff>🪤 <b>诱饵</b></font> <Badge text="帮助类" type="tip" vertical="middle"/>
 ---
 
-When a Bait is killed, the murderer who killed the Bait will be forced to report the Bait's body. However, the skill will be invalid when the Bait is killed by a Scavenger or Cleaner.
-* Max
-  * Set the Maximum amount of Baits that can be in a match
-* Spawn Chance
-  * Set the percentage players have of getting Bait
-* <font color=red>Impostors</font> can become Bait
-  * <font color=green>ON</font>: <font color=red>Impostors</font> can become this role
-  * <font color=red>OFF</font>: <font color=red>Impostors</font> cannot become this role
-* <font color=#8cffff>Crewmates</font> can become Bait
-  * <font color=green>ON</font>: <font color=#8cffff>Crewmates</font> can become this role
-  * <font color=red>OFF</font>: <font color=#8cffff>Crewmates</font> cannot become this role
-* <font color=#7f8c8d>Neutrals</font> can become Bait
-  * <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become this role
-  * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
-* Minimum Report Delay
-  * Set the minimal time the killer the Bait will auto report in
-* Maximum Report Delay
-  * Set the maximum time the killer of Bait will auto report in
-* Warn the killer about the upcoming self-report
-  * <font color=green>ON</font>: The killer of the Bait will hear a little tune play before they report
-  * <font color=red>OFF</font>: No tune will play
-* Reveal Bait at the first meeting
-  * <font color=green>ON</font>: The player who is Bait will be announced to everyone at the first meeting
-  * <font color=red>OFF</font>: Nobody will know who the bait is unless they reveal
+诱饵被击杀时，击杀诱饵的凶手将被迫报告诱饵的尸体。但诱饵被清道夫或清理工击杀时技能会失效。
+* 最大人数
+  * 设置一轮游戏中存在诱饵的最大数量
+* 出现概率
+  * 设置玩家获得诱饵的概率
+* <font color=red>内鬼</font>能成为诱饵
+  * <font color=green>启用</font>: <font color=red>内鬼</font>能成为这个角色
+  * <font color=red>关闭</font>: <font color=red>内鬼</font>不能成为这个角色
+* <font color=#8cffff>船员</font>能成为诱饵
+  * <font color=green>启用</font>: <font color=#8cffff>船员</font>能成为这个角色
+  * <font color=red>关闭</font>: <font color=#8cffff>船员</font>不能成为这个角色
+* <font color=#7f8c8d>中立</font>能成为诱饵
+  * <font color=green>启用</font>: <font color=#7f8c8d>中立</font>能成为这个角色
+  * <font color=red>关闭</font>: <font color=#7f8c8d>中立</font>不能成为这个角色
+* 报告最小延迟
+  * 设置诱饵自动报告的下限
+* 报告最大延迟
+  * 设置诱饵自动报告的上限
+* 警告凶手即将报告
+  * <font color=green>启用</font>: 凶手将会获得提示
+  * <font color=red>关闭</font>: 凶手不会获得提示
+* 在第一次会议上显示<color=#00f7ff>诱饵</color>
+  * <font color=green>启用</font>: 所有人在开始知道谁是诱饵
+  * <font color=red>关闭</font>: 除非诱饵自爆，否则没有人会知道谁是诱饵
 
-> From: TOH & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> 来自: TOH & 代码: [KARPED1EM](https://github.com/KARPED1EM)

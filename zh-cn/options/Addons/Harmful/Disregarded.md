@@ -1,8 +1,8 @@
 ---
 lang: zh-CN
-title: 不受重视
+title: Disregarded
 prev: /options/Settings/Addons.html
-next: 脆弱
+next: Fragile
 ---
 
 # <font color=#ff6347>🤚 <b>不受重视</b></font> <Badge text="有害类" type="tip" vertical="middle"/>

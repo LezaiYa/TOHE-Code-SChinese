@@ -1,8 +1,8 @@
 ---
 lang: zh-CN
-title: 脆弱
+title: Fragile
 prev: Disregarded
-next: 胆小鬼
+next: Oblivious
 ---
 
 # <font color=#d3d3d3>📦 <b>脆弱</b></font> <Badge text="有害类" type="tip" vertical="middle"/>

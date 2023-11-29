@@ -1,8 +1,8 @@
 ---
 lang: zh-CN
-title: 流氓
-prev: 胆小鬼
-next: 倒霉蛋
+title: Rascal
+prev: Oblivious
+next: Unlucky
 ---
 
 # <font color=#980404>👹 <b>流氓</b></font> <Badge text="有害类" type="tip" vertical="middle"/>

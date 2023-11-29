@@ -1,7 +1,7 @@
 ---
 lang: zh-CN
-title: 无效投票
-prev: 倒霉蛋
+title: VoidBallot
+prev: Unlucky
 next: /options/Settings/Addons.html
 ---
 

@@ -1,8 +1,8 @@
 ---
 lang: zh-CN
-title: 胆小鬼
-prev: 脆弱
-next: 流氓
+title: Oblivious
+prev: Fragile
+next: Rascal
 ---
 
 # <font color=#424242>🤡 <b>胆小鬼</b></font> <Badge text="有害类" type="tip" vertical="middle"/>
